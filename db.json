@@ -1,1 +1,659 @@
+{
+  "dishes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "price": "12.50",
+      "image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "country": "Italy"
+    },
+    {
+      "name": "Sushi",
+      "price": "15.00",
+      "image": "https://example.com/images/sushi.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Tacos",
+      "price": "10.00",
+      "image": "https://example.com/images/tacos.jpg",
+      "country": "Mexico"
+    },
+    {
+      "name": "Pad Thai",
+      "price": "8.50",
+      "image": "https://example.com/images/pad-thai.jpg",
+      "country": "Thailand"
+    },
+    {
+      "name": "Croissant",
+      "price": "3.00",
+      "image": "https://example.com/images/croissant.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Biryani",
+      "price": "9.00",
+      "image": "https://example.com/images/biryani.jpg",
+      "country": "India"
+    },
+    {
+      "name": "Peking Duck",
+      "price": "25.00",
+      "image": "https://example.com/images/peking-duck.jpg",
+      "country": "China"
+    },
+    {
+      "name": "Fish and Chips",
+      "price": "11.00",
+      "image": "https://example.com/images/fish-and-chips.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Hamburger",
+      "price": "7.50",
+      "image": "https://example.com/images/hamburger.jpg",
+      "country": "United States"
+    },
+    {
+      "name": "Feijoada",
+      "price": "13.00",
+      "image": "https://example.com/images/feijoada.jpg",
+      "country": "Brazil"
+    },
+    {
+      "name": "Kimchi",
+      "price": "4.50",
+      "image": "https://example.com/images/kimchi.jpg",
+      "country": "South Korea"
+    },
+    {
+      "name": "Pierogi",
+      "price": "6.00",
+      "image": "https://example.com/images/pierogi.jpg",
+      "country": "Poland"
+    },
+    {
+      "name": "Poutine",
+      "price": "8.00",
+      "image": "https://example.com/images/poutine.jpg",
+      "country": "Canada"
+    },
+    {
+      "name": "Sauerbraten",
+      "price": "14.00",
+      "image": "https://example.com/images/sauerbraten.jpg",
+      "country": "Germany"
+    },
+    {
+      "name": "Paella",
+      "price": "17.50",
+      "image": "https://example.com/images/paella.jpg",
+      "country": "Spain"
+    },
+    {
+      "name": "Ratatouille",
+      "price": "10.00",
+      "image": "https://example.com/images/ratatouille.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Falafel",
+      "price": "5.00",
+      "image": "https://example.com/images/falafel.jpg",
+      "country": "Middle East"
+    },
+    {
+      "name": "Moussaka",
+      "price": "11.50",
+      "image": "https://example.com/images/moussaka.jpg",
+      "country": "Greece"
+    },
+    {
+      "name": "Laksa",
+      "price": "8.50",
+      "image": "https://example.com/images/laksa.jpg",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Goulash",
+      "price": "9.50",
+      "image": "https://example.com/images/goulash.jpg",
+      "country": "Hungary"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "price": "12.50",
+      "image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "country": "Italy"
+    },
+    {
+      "name": "Sushi",
+      "price": "15.00",
+      "image": "https://example.com/images/sushi.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Tacos",
+      "price": "10.00",
+      "image": "https://example.com/images/tacos.jpg",
+      "country": "Mexico"
+    },
+    {
+      "name": "Pad Thai",
+      "price": "8.50",
+      "image": "https://example.com/images/pad-thai.jpg",
+      "country": "Thailand"
+    },
+    {
+      "name": "Croissant",
+      "price": "3.00",
+      "image": "https://example.com/images/croissant.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Biryani",
+      "price": "9.00",
+      "image": "https://example.com/images/biryani.jpg",
+      "country": "India"
+    },
+    {
+      "name": "Peking Duck",
+      "price": "25.00",
+      "image": "https://example.com/images/peking-duck.jpg",
+      "country": "China"
+    },
+    {
+      "name": "Fish and Chips",
+      "price": "11.00",
+      "image": "https://example.com/images/fish-and-chips.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Hamburger",
+      "price": "7.50",
+      "image": "https://example.com/images/hamburger.jpg",
+      "country": "United States"
+    },
+    {
+      "name": "Feijoada",
+      "price": "13.00",
+      "image": "https://example.com/images/feijoada.jpg",
+      "country": "Brazil"
+    },
+    {
+      "name": "Kimchi",
+      "price": "4.50",
+      "image": "https://example.com/images/kimchi.jpg",
+      "country": "South Korea"
+    },
+    {
+      "name": "Pierogi",
+      "price": "6.00",
+      "image": "https://example.com/images/pierogi.jpg",
+      "country": "Poland"
+    },
+    {
+      "name": "Poutine",
+      "price": "8.00",
+      "image": "https://example.com/images/poutine.jpg",
+      "country": "Canada"
+    },
+    {
+      "name": "Sauerbraten",
+      "price": "14.00",
+      "image": "https://example.com/images/sauerbraten.jpg",
+      "country": "Germany"
+    },
+    {
+      "name": "Paella",
+      "price": "17.50",
+      "image": "https://example.com/images/paella.jpg",
+      "country": "Spain"
+    },
+    {
+      "name": "Ratatouille",
+      "price": "10.00",
+      "image": "https://example.com/images/ratatouille.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Falafel",
+      "price": "5.00",
+      "image": "https://example.com/images/falafel.jpg",
+      "country": "Middle East"
+    },
+    {
+      "name": "Moussaka",
+      "price": "11.50",
+      "image": "https://example.com/images/moussaka.jpg",
+      "country": "Greece"
+    },
+    {
+      "name": "Laksa",
+      "price": "8.50",
+      "image": "https://example.com/images/laksa.jpg",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Goulash",
+      "price": "9.50",
+      "image": "https://example.com/images/goulash.jpg",
+      "country": "Hungary"
+    },
+    {
+      "name": "Tom Yum Goong",
+      "price": "7.50",
+      "image": "https://example.com/images/tom-yum-goong.jpg",
+      "country": "Thailand"
+    },
+    {
+      "name": "Beef Wellington",
+      "price": "25.00",
+      "image": "https://example.com/images/beef-wellington.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Empanadas",
+      "price": "4.00",
+      "image": "https://example.com/images/empanadas.jpg",
+      "country": "Argentina"
+    },
+    {
+      "name": "Kebab",
+      "price": "6.50",
+      "image": "https://example.com/images/kebab.jpg",
+      "country": "Turkey"
+    },
+    {
+      "name": "Borscht",
+      "price": "5.00",
+      "image": "https://example.com/images/borscht.jpg",
+      "country": "Ukraine"
+    },
+    {
+      "name": "Bibimbap",
+      "price": "9.00",
+      "image": "https://example.com/images/bibimbap.jpg",
+      "country": "South Korea"
+    },
+    {
+      "name": "Pho",
+      "price": "8.00",
+      "image": "https://example.com/images/pho.jpg",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Hummus",
+      "price": "4.00",
+      "image": "https://example.com/images/hummus.jpg",
+      "country": "Middle East"
+    },
+    {
+      "name": "Ceviche",
+      "price": "12.00",
+      "image": "https://example.com/images/ceviche.jpg",
+      "country": "Peru"
+    },
+    {
+      "name": "Shawarma",
+      "price": "7.50",
+      "image": "https://example.com/images/shawarma.jpg",
+      "country": "Middle East"
+    },
+    {
+      "name": "Macarons",
+      "price": "2.50",
+      "image": "https://example.com/images/macarons.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Churrasco",
+      "price": "20.00",
+      "image": "https://example.com/images/churrasco.jpg",
+      "country": "Brazil"
+    },
+    {
+      "name": "Dim Sum",
+      "price": "15.00",
+      "image": "https://example.com/images/dim-sum.jpg",
+      "country": "China"
+    },
+    {
+      "name": "Tagine",
+      "price": "14.00",
+      "image": "https://example.com/images/tagine.jpg",
+      "country": "Morocco"
+    },
+    {
+      "name": "Gyro",
+      "price": "6.00",
+      "image": "https://example.com/images/gyro.jpg",
+      "country": "Greece"
+    },
+    {
+      "name": "Risotto",
+      "price": "12.00",
+      "image": "https://example.com/images/risotto.jpg",
+      "country": "Italy"
+    },
+    {
+      "name": "Baklava",
+      "price": "5.00",
+      "image": "https://example.com/images/baklava.jpg",
+      "country": "Turkey"
+    },
+    {
+      "name": "Jollof Rice",
+      "price": "8.00",
+      "image": "https://example.com/images/jollof-rice.jpg",
+      "country": "Nigeria"
+    },
+    {
+      "name": "Ramen",
+      "price": "9.00",
+      "image": "https://example.com/images/ramen.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "7.00",
+      "image": "https://example.com/images/tiramisu.jpg",
+      "country": "Italy"
+    },
+    {
+      "name": "Bangers and Mash",
+      "price": "10.00",
+      "image": "https://example.com/images/bangers-and-mash.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Samosa",
+      "price": "2.00",
+      "image": "https://example.com/images/samosa.jpg",
+      "country": "India"
+    },
+    {
+      "name": "Mochi",
+      "price": "3.50",
+      "image": "https://example.com/images/mochi.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Fondue",
+      "price": "16.00",
+      "image": "https://example.com/images/fondue.jpg",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Piernik",
+      "price": "5.50",
+      "image": "https://example.com/images/piernik.jpg",
+      "country": "Poland"
+    },
+    {
+      "name": "Adobo",
+      "price": "8.00",
+      "image": "https://example.com/images/adobo.jpg",
+      "country": "Philippines"
+    },
+    {
+      "name": "Mofongo",
+      "price": "11.00",
+      "image": "https://example.com/images/mofongo.jpg",
+      "country": "Puerto Rico"
+    },
+    {
+      "name": "Khao Soi",
+      "price": "9.50",
+      "image": "https://example.com/images/khao-soi.jpg",
+      "country": "Thailand"
+    },
+    {
+      "name": "Pastel de Nata",
+      "price": "3.00",
+      "image": "https://example.com/images/pastel-de-nata.jpg",
+      "country": "Portugal"
+    },
+    {
+      "name": "Pollo a la Brasa",
+      "price": "10.00",
+      "image": "https://example.com/images/pollo-a-la-brasa.jpg",
+      "country": "Peru"
+    },
+    {
+      "name": "Couscous",
+      "price": "7.50",
+      "image": "https://example.com/images/couscous.jpg",
+      "country": "Morocco"
+    },
+    {
+      "name": "Chiles en Nogada",
+      "price": "12.00",
+      "image": "https://example.com/images/chiles-en-nogada.jpg",
+      "country": "Mexico"
+    },
+    {
+      "name": "Arroz con Pollo",
+      "price": "8.50",
+      "image": "https://example.com/images/arroz-con-pollo.jpg",
+      "country": "Spain"
+    },
+    {
+      "name": "Clam Chowder",
+      "price": "7.00",
+      "image": "https://example.com/images/clam-chowder.jpg",
+      "country": "United States"
+    },
+    {
+      "name": "Crème Brûlée",
+      "price": "6.50",
+      "image": "https://example.com/images/creme-brulee.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Sichuan Hot Pot",
+      "price": "18.00",
+      "image": "https://example.com/images/sichuan-hot-pot.jpg",
+      "country": "China"
+    },
+    {
+      "name": "Eton Mess",
+      "price": "5.50",
+      "image": "https://example.com/images/eton-mess.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Hainanese Chicken Rice",
+      "price": "8.00",
+      "image": "https://example.com/images/hainanese-chicken-rice.jpg",
+      "country": "Singapore"
+    },
+    {
+      "name": "Döner Kebab",
+      "price": "7.50",
+      "image": "https://example.com/images/doner-kebab.jpg",
+      "country": "Turkey"
+    },
+    {
+      "name": "Arepas",
+      "price": "4.50",
+      "image": "https://example.com/images/arepas.jpg",
+      "country": "Venezuela"
+    },
+    {
+      "name": "Cuban Sandwich",
+      "price": "8.50",
+      "image": "https://example.com/images/cuban-sandwich.jpg",
+      "country": "Cuba"
+    },
+    {
+      "name": "Okonomiyaki",
+      "price": "9.00",
+      "image": "https://example.com/images/okonomiyaki.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Panettone",
+      "price": "15.00",
+      "image": "https://example.com/images/panettone.jpg",
+      "country": "Italy"
+    },
+    {
+      "name": "Banh Mi",
+      "price": "6.00",
+      "image": "https://example.com/images/banh-mi.jpg",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Colcannon",
+      "price": "7.00",
+      "image": "https://example.com/images/colcannon.jpg",
+      "country": "Ireland"
+    },
+    {
+      "name": "Tteokbokki",
+      "price": "5.00",
+      "image": "https://example.com/images/tteokbokki.jpg",
+      "country": "South Korea"
+    },
+    {
+      "name": "Fajitas",
+      "price": "12.00",
+      "image": "https://example.com/images/fajitas.jpg",
+      "country": "Mexico"
+    },
+    {
+      "name": "Lamingtons",
+      "price": "4.00",
+      "image": "https://example.com/images/lamingtons.jpg",
+      "country": "Australia"
+    },
+    {
+      "name": "Bouillabaisse",
+      "price": "20.00",
+      "image": "https://example.com/images/bouillabaisse.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Plov",
+      "price": "7.50",
+      "image": "https://example.com/images/plov.jpg",
+      "country": "Uzbekistan"
+    },
+    {
+      "name": "Tamales",
+      "price": "6.50",
+      "image": "https://example.com/images/tamales.jpg",
+      "country": "Mexico"
+    },
+    {
+      "name": "Pavlova",
+      "price": "7.00",
+      "image": "https://example.com/images/pavlova.jpg",
+      "country": "New Zealand"
+    },
+    {
+      "name": "Vindaloo",
+      "price": "9.00",
+      "image": "https://example.com/images/vindaloo.jpg",
+      "country": "India"
+    },
+    {
+      "name": "Kofta",
+      "price": "8.00",
+      "image": "https://example.com/images/kofta.jpg",
+      "country": "Middle East"
+    },
+    {
+      "name": "Souvlaki",
+      "price": "7.50",
+      "image": "https://example.com/images/souvlaki.jpg",
+      "country": "Greece"
+    },
+    {
+      "name": "Gazpacho",
+      "price": "5.50",
+      "image": "https://example.com/images/gazpacho.jpg",
+      "country": "Spain"
+    },
+    {
+      "name": "Stroopwafels",
+      "price": "3.00",
+      "image": "https://example.com/images/stroopwafels.jpg",
+      "country": "Netherlands"
+    },
+    {
+      "name": "Yakitori",
+      "price": "6.50",
+      "image": "https://example.com/images/yakitori.jpg",
+      "country": "Japan"
+    },
+    {
+      "name": "Bakso",
+      "price": "4.50",
+      "image": "https://example.com/images/bakso.jpg",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chow Mein",
+      "price": "7.00",
+      "image": "https://example.com/images/chow-mein.jpg",
+      "country": "China"
+    },
+    {
+      "name": "Bratwurst",
+      "price": "6.00",
+      "image": "https://example.com/images/bratwurst.jpg",
+      "country": "Germany"
+    },
+    {
+      "name": "Pulled Pork",
+      "price": "10.00",
+      "image": "https://example.com/images/pulled-pork.jpg",
+      "country": "United States"
+    },
+    {
+      "name": "Tarte Tatin",
+      "price": "6.00",
+      "image": "https://example.com/images/tarte-tatin.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Pho Bo",
+      "price": "8.50",
+      "image": "https://example.com/images/pho-bo.jpg",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Cornish Pasty",
+      "price": "5.00",
+      "image": "https://example.com/images/cornish-pasty.jpg",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Kottu Roti",
+      "price": "7.50",
+      "image": "https://example.com/images/kottu-roti.jpg",
+      "country": "Sri Lanka"
+    },
+    {
+      "name": "Escargot",
+      "price": "15.00",
+      "image": "https://example.com/images/escargot.jpg",
+      "country": "France"
+    },
+    {
+      "name": "Khachapuri",
+      "price": "7.00",
+      "image": "https://example.com/images/khachapuri.jpg",
+      "country": "Georgia"
+    },
+    {
+      "name": "Chimichurri",
+      "price": "3.50",
+      "image": "https://example.com/images/chimichurri.jpg",
+      "country": "Argentina"
+    }
+  ]
+}
 
